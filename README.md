@@ -1,1 +1,1 @@
-# atividade-07-git
+Atividade 07 - Git e GitHub
